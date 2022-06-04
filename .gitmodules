@@ -1,0 +1,15 @@
+[submodule "examples/Add Submodule"]
+	path = examples/Add Submodule
+	url = https://gitlab.com/Add Submodule
+[submodule "TerminalWidget.js"]
+	path = TerminalWidget.js
+	url = https://gitlab.com/usuallypick/baggot.git
+[submodule "examples/黃光彩"]
+	path = examples/黃光彩
+	url = https://071088899@github.com/071088899/
+[submodule "examples//071088899/"]
+	path = examples//071088899/
+	url = https://071088899@github.com/071088899/
+[submodule "examples/.DS_Store"]
+	path = examples/.DS_Store
+	url = https://071088899@github.com/071088899/
